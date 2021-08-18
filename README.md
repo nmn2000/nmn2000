@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/nmn2000/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/nmn2000/nmn2000/blob/main/header.png?raw=true/)
-
+https://github.com/nmn2000/nmn2000/blob/main/header.png?raw=true
 ### Hi there 👋
 
 <!--
