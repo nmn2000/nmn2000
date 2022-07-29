@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/snaman2000" target="blank"><img src="https://img.shields.io/twitter/follow/snaman2000?logo=twitter&style=for-the-badge" alt="snaman2000" /></a> </p>
 
-- 🔭 I’m currently a 3rd year B.Tech (CSE) student at [VIT CHENNAI](https://chennai.vit.ac.in/)
+- 🔭 I’m currently a 4th year B.Tech (CSE) student at [VIT CHENNAI](https://chennai.vit.ac.in/)
 
 - 🌱 I’m currently learning **Data Analytics,Web Development(Front End),Machine Learning and Cloud Computing.**
 
